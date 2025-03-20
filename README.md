@@ -54,3 +54,17 @@
   
 <img src="https://github.com/user-attachments/assets/7edf4506-13e9-4c43-9e6a-a31afa18a6ef" alt="img_4_e" width="500"/>
 
+
+### Image5 
+
+- **Input & GT**
+  
+<img src="https://github.com/user-attachments/assets/b6a3fb40-bbf8-476b-9e43-a004a9e34640" alt="img_5_i" width="500"/>
+<img src="https://github.com/user-attachments/assets/bcf74ff9-16cb-406b-a69a-e3c78757f3f6" alt="img_5_g" width="500"/>
+
+
+- **Enhance**
+  
+<img src="https://github.com/user-attachments/assets/04f700a6-5017-446d-a173-e166d64fcc94" alt="img_5_e" width="500"/>
+
+
