@@ -89,7 +89,7 @@
 
 - **Input & GT**
   
-<img src="https://github.com/user-attachments/assets/e010f86c-431c-4c4c-9885-fc756fe1ac9c" alt="img_7_i" width="500"/>
+<img src="https://github.com/user-attachments/assets/6cefb3e5-7ff7-47ae-a13e-6ea19d4722b0" alt="img_7_i" width="500"/>
 <img src="https://github.com/user-attachments/assets/a0763ff5-a40b-4f9c-97d5-b8dc4fa5497d" alt="img_7_g" width="500"/>
 
 
