@@ -27,3 +27,16 @@
   
 <img src="https://github.com/user-attachments/assets/ec73f33c-bf14-40ed-9a6e-eaaad96fb28c" alt="img_1_e" width="500"/>
 
+
+
+### Image3 
+
+- **Input & GT**
+  
+<img src="https://github.com/user-attachments/assets/455c4fda-2d86-4527-94da-61b9c89646b0" alt="img_1_i" width="500"/>
+<img src="https://github.com/user-attachments/assets/18d7c9cb-71ae-4e04-a437-6c4d0f0e7227" alt="img_1_g" width="500"/>
+
+
+- **Enhance**
+  
+<img src="https://github.com/user-attachments/assets/bd019e6b-9194-4765-8261-4782680750d7" alt="img_1_e" width="500"/>
