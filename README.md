@@ -3,18 +3,20 @@
 
 ### Image1 
 
-- **BSD_2092**
+- **Input**
   
-<img src="https://github.com/user-attachments/assets/5cb380f3-a897-4969-a17c-75b7e55bb2b2" alt="fig_1" width="2000"/>
+<img src="https://github.com/user-attachments/assets/7165f421-1bb2-4007-b852-d788541388dc" alt="img_1_i" width="2000"/>
 
-- **BSD_3063**
-  
-<img src="https://github.com/user-attachments/assets/4341716b-337b-4228-8260-8be320337cc8" alt="fig_2" width="2000"/>
 
-- **BSD_45077**
+- **GT**
   
-<img src="https://github.com/user-attachments/assets/9e787534-6d6c-4183-b366-dd3435561b08" alt="fig_3" width="2000"/>
+<img src="https://github.com/user-attachments/assets/de68d7f0-e24e-480b-9c4c-5d3c4e200367" alt="img_1_g" width="2000"/>
 
-- **BSD_105019**
+
+
+- **Enhance**
   
-<img src="https://github.com/user-attachments/assets/342305ad-7c5a-4433-ab4e-3671e08cfafd" alt="fig_4" width="2000"/>
+<img src="https://github.com/user-attachments/assets/82dcbe77-7714-4093-b1bc-5e1ac2841ddb" alt="img_1_e" width="2000"/>
+
+
+
