@@ -100,22 +100,12 @@
 - **Image 4**
 
 <div align="center">
-  <strong>Inut & GT</strong>  
+  <strong>Input</strong>  
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="600"/><br/>
-      <strong>Input</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/37924cc0-e22d-41c0-abe7-4a6354a0d2a5" alt="img_4_g" width="600"/><br/>
-      <strong>Ground-truth</strong>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="500"/>
+</div>
 <br>
 
 <div align="center">
@@ -130,6 +120,37 @@
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ef30a5cb-6fd0-411b-9dc9-d354f60ca30d" alt="img_4_a" width="600"/><br/>
+      <strong>Version-0326</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+- **Image 5**
+
+<div align="center">
+  <strong>Input</strong>  
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/291ac029-d04f-4ca4-8176-dfca4a5eaef9" alt="img_5_i" width="500"/>
+</div>
+<br>
+
+<div align="center">
+  <strong>Compare model outputs</strong>  
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b857a9ad-7898-4ccd-b9c9-96ac7d2b2a6b" alt="img_5_b" width="600"/><br/>
+      <strong>Version-0321</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fa3124f0-bc10-4fc9-a59c-84076e741fba" alt="img_5_a" width="600"/><br/>
       <strong>Version-0326</strong>
     </td>
   </tr>
