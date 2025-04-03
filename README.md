@@ -14,8 +14,7 @@
 
 ## Qualitative evaluation
 
-<details>
-  <summary><strong>Compare Model Outputs - Image 1</strong></summary>
+### Compare Model Outputs - Image 1
 
 <table>
   <tr>
@@ -32,12 +31,9 @@
   </tr>
 </table>
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>Compare Model Outputs - Image 2</strong></summary>
+### Compare Model Outputs - Image 2
 
 <table>
   <tr>
@@ -54,12 +50,9 @@
   </tr>
 </table>
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>Compare Model Outputs - Image 3</strong></summary>
+### Compare Model Outputs - Image 3
 
 <table>
   <tr>
@@ -76,12 +69,9 @@
   </tr>
 </table>
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>Compare Model Outputs - Image 4</strong></summary>
+### Compare Model Outputs - Image 4
 
 <table>
   <tr>
@@ -98,12 +88,9 @@
   </tr>
 </table>
 
-</details>
-
 ---
 
-<details>
-  <summary><strong>Compare Model Outputs - Image 5</strong></summary>
+### Compare Model Outputs - Image 5
 
 <table>
   <tr>
@@ -120,7 +107,6 @@
   </tr>
 </table>
 
-</details>
 
 
 
