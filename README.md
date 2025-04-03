@@ -1,13 +1,15 @@
+## 250403 - Color Enhancement model test example 
+
+### Comparison frame - Original frame & Enhanced frame
+
+[<Comparison frame 1>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866)
+
+
+
+
+
+<!--
 ## 250320 - Color Enhancement model test example 
-
-
-
-https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866
-
-
-
-
-
 
 ### Image1 
 
@@ -127,7 +129,7 @@ https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-10
   <img src="https://github.com/user-attachments/assets/2a97021d-4871-44a1-946c-7d6a46ce69b3" alt="img_7_e" width="500"/>
 </div>
 
-
+-->
 
 
 
