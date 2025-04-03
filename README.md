@@ -7,11 +7,11 @@
 - **Image 1**
 
 <div align="center">
-  <strong>Ground Truth</strong>  
+  <strong>Input</strong>  
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" alt="img_1_gt" width="500"/>
+  <img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" alt="img_1_i" width="500"/>
 </div>
 
 <br>
@@ -38,11 +38,11 @@
 - **Image 2**
 
 <div align="center">
-  <strong>Ground Truth</strong>  
+  <strong>Input</strong>  
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" alt="img_2_gt" width="500"/>
+  <img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" alt="img_2_i" width="500"/>
 </div>
 
 <br>
@@ -69,11 +69,11 @@
 - **Image 3**
 
 <div align="center">
-  <strong>Ground Truth</strong>  
+  <strong>Input</strong>  
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" alt="img_3_gt" width="500"/>
+  <img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" alt="img_3_i" width="500"/>
 </div>
 
 <br>
@@ -100,11 +100,21 @@
 - **Image 4**
 
 <div align="center">
+  <strong>Input</strong>  
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="500"/>
+</div>
+
+<br>
+
+<div align="center">
   <strong>Ground Truth</strong>  
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_gt" width="500"/>
+  <img src="https://github.com/user-attachments/assets/37924cc0-e22d-41c0-abe7-4a6354a0d2a5" alt="img_4_gt" width="500"/>
 </div>
 
 <br>
