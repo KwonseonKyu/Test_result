@@ -3,7 +3,18 @@
 ### Image1 
 
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="3456" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image Comparison</title>
+</head>
+<body>
+  <iframe frameborder="0" class="juxtapose" width="100%" height="600"
+    src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866"></iframe>
+</body>
+</html>
+
 
 
 - **Input & GT**  
