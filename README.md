@@ -100,22 +100,21 @@
 - **Image 4**
 
 <div align="center">
-  <strong>Input</strong>  
+  <strong>Inut & GT</strong>  
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="500"/>
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Ground Truth</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/37924cc0-e22d-41c0-abe7-4a6354a0d2a5" alt="img_4_gt" width="500"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="600"/><br/>
+      <strong>Input</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/37924cc0-e22d-41c0-abe7-4a6354a0d2a5" alt="img_4_g" width="600"/><br/>
+      <strong>Ground-truth</strong>
+    </td>
+  </tr>
+</table>
 
 <br>
 
