@@ -14,176 +14,21 @@
 
 ## Qualitative evaluation
 
-
-- **Image 1**
-
-<div align="center">
-  <strong>Input</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" alt="img_1_i" width="500"/>
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Compare model outputs</strong>  
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_b" width="600"/><br/>
-      <strong>Version-0321</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" alt="img_1_a" width="600"/><br/>
-      <strong>Version-0326</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-- **Image 2**
-
-<div align="center">
-  <strong>Input</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" alt="img_2_i" width="500"/>
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Compare model outputs</strong>  
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/53985f22-23e0-42f8-810e-8568dda7881d" alt="img_2_b" width="600"/><br/>
-      <strong>Version-0321</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fb99a2df-4982-4b17-8a7d-a95f1f6f1d98" alt="img_2_a" width="600"/><br/>
-      <strong>Version-0326</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-- **Image 3**
-
-<div align="center">
-  <strong>Input</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" alt="img_3_i" width="500"/>
-</div>
-
-<br>
-
-<div align="center">
-  <strong>Compare model outputs</strong>  
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/b79ff60f-7bf2-436d-ba4b-2e3bf716b4a6" alt="img_3_b" width="600"/><br/>
-      <strong>Version-0321</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5606d6cf-38a7-418f-b9b7-c78dfd80ed3c" alt="img_3_a" width="600"/><br/>
-      <strong>Version-0326</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-- **Image 4**
-
-<div align="center">
-  <strong>Input</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_i" width="500"/>
-</div>
-<br>
-
-<div align="center">
-  <strong>Compare model outputs</strong>  
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fe42cd72-651a-40f1-acb3-288b52fb4b14" alt="img_4_b" width="600"/><br/>
-      <strong>Version-0321</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ef30a5cb-6fd0-411b-9dc9-d354f60ca30d" alt="img_4_a" width="600"/><br/>
-      <strong>Version-0326</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-
-- **Image 5**
-
-<div align="center">
-  <strong>Input</strong>  
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d6a86b46-d85d-456b-b1df-10a0529c7986" alt="img_5_i" width="500"/>
-</div>
-<br>
-
-<div align="center">
-  <strong>Compare model outputs</strong>  
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/596f6489-9efe-48bd-85f3-1b7899ca4dc1" alt="img_5_b" width="600"/><br/>
-      <strong>Version-0321</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/fe1dfff0-bb7a-413c-8154-b4da7892a171" alt="img_5_a" width="600"/><br/>
-      <strong>Version-0326</strong>
-    </td>
-  </tr>
-</table>
-
----
-
 <details>
   <summary><strong>Compare Model Outputs - Image 1</strong></summary>
 
 <table>
   <tr>
     <td><strong>Input</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0321</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0326</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" width="700"/></td>
   </tr>
 </table>
 
@@ -197,15 +42,15 @@
 <table>
   <tr>
     <td><strong>Input</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0321</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/53985f22-23e0-42f8-810e-8568dda7881d" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/53985f22-23e0-42f8-810e-8568dda7881d" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0326</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/fb99a2df-4982-4b17-8a7d-a95f1f6f1d98" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fb99a2df-4982-4b17-8a7d-a95f1f6f1d98" width="700"/></td>
   </tr>
 </table>
 
@@ -219,15 +64,15 @@
 <table>
   <tr>
     <td><strong>Input</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0321</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/b79ff60f-7bf2-436d-ba4b-2e3bf716b4a6" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b79ff60f-7bf2-436d-ba4b-2e3bf716b4a6" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0326</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/5606d6cf-38a7-418f-b9b7-c78dfd80ed3c" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5606d6cf-38a7-418f-b9b7-c78dfd80ed3c" width="700"/></td>
   </tr>
 </table>
 
@@ -241,15 +86,15 @@
 <table>
   <tr>
     <td><strong>Input</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0321</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/fe42cd72-651a-40f1-acb3-288b52fb4b14" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fe42cd72-651a-40f1-acb3-288b52fb4b14" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0326</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/ef30a5cb-6fd0-411b-9dc9-d354f60ca30d" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef30a5cb-6fd0-411b-9dc9-d354f60ca30d" width="700"/></td>
   </tr>
 </table>
 
@@ -263,15 +108,15 @@
 <table>
   <tr>
     <td><strong>Input</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/d6a86b46-d85d-456b-b1df-10a0529c7986" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d6a86b46-d85d-456b-b1df-10a0529c7986" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0321</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/596f6489-9efe-48bd-85f3-1b7899ca4dc1" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/596f6489-9efe-48bd-85f3-1b7899ca4dc1" width="700"/></td>
   </tr>
   <tr>
     <td><strong>Version-0326</strong></td>
-    <td><img src="https://github.com/user-attachments/assets/fe1dfff0-bb7a-413c-8154-b4da7892a171" width="600"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fe1dfff0-bb7a-413c-8154-b4da7892a171" width="700"/></td>
   </tr>
 </table>
 
