@@ -1,7 +1,16 @@
-## 250403 - Color Enhancement model test example 
+# 250403 - Color Enhancement model test example 
+
+## Results
+
+| Dataset  | TensorFlow |           | PyTorch |           |
+|:--------:|:----------:|:---------:|:-------:|:---------:|
+|          | PSNR       | SSIM      | PSNR    | SSIM      |
+|  LOLv1   |  27.23     |  0.853    | 26.63   |  0.836    |
+| LOLv2-R  |  27.80     |  0.873    | 28.41   |  0.878    |
+| LOLv2-S  |  29.39     |  0.939    | 26.72   |  0.928    |
 
 
-### Compare previous(0321) and current(0326) model output
+## Compare previous(0321) and current(0326) model output
 
 
 - **Image 1**
