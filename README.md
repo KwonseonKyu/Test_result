@@ -4,15 +4,15 @@
 ### Compare previous(0321) and current(0326) model output
 
 
-#### Image 1
+- Image 1
 
-- **Ground Truth**  
+**Ground Truth**  
 <div align="center">
   <img src="https://github.com/user-attachments/assets/797781a6-68a4-47e9-a25a-c84c508d99a7" alt="img_1_e" width="500"/>
 </div>
 
 
-- **Compare model outputs**  
+**Compare model outputs**  
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_i" width="600"/></td>
