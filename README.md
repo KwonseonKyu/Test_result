@@ -23,11 +23,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_b" width="1000"/><br/>
+      <img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_b" width="600"/><br/>
       <strong>Version-0321</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" alt="img_1_a" width="1000"/><br/>
+      <img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" alt="img_1_a" width="600"/><br/>
       <strong>Version-0326</strong>
     </td>
   </tr>
@@ -135,7 +135,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/291ac029-d04f-4ca4-8176-dfca4a5eaef9" alt="img_5_i" width="500"/>
+  <img src="https://github.com/user-attachments/assets/d6a86b46-d85d-456b-b1df-10a0529c7986" alt="img_5_i" width="500"/>
 </div>
 <br>
 
@@ -146,18 +146,17 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b857a9ad-7898-4ccd-b9c9-96ac7d2b2a6b" alt="img_5_b" width="600"/><br/>
+      <img src="https://github.com/user-attachments/assets/596f6489-9efe-48bd-85f3-1b7899ca4dc1" alt="img_5_b" width="600"/><br/>
       <strong>Version-0321</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fa3124f0-bc10-4fc9-a59c-84076e741fba" alt="img_5_a" width="600"/><br/>
+      <img src="https://github.com/user-attachments/assets/fe1dfff0-bb7a-413c-8154-b4da7892a171" alt="img_5_a" width="600"/><br/>
       <strong>Version-0326</strong>
     </td>
   </tr>
 </table>
 
 ---
-
 
 
 ### Comparison frame - Original frame & Enhanced frame
