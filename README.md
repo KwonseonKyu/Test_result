@@ -166,8 +166,13 @@
 
 ---
 
+## Qualitative evaluation
+![230203_Before_001-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/950cc092-a728-4efb-824a-cda1b6ddef62)
 
-### Comparison frame - Original frame & Enhanced frame
+
+
+
+## Comparison frame - Original frame & Enhanced frame
 
 [<Comparison frame 1>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866)
 
