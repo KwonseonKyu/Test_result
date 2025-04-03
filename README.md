@@ -2,26 +2,12 @@
 
 ### Image1 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Image Comparison</title>
-</head>
-<body>
-  <iframe frameborder="0" class="juxtapose" width="100%" height="600"
-    src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866"></iframe>
-</body>
-</html>
-
-
-
 - **Input & GT**  
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/7165f421-1bb2-4007-b852-d788541388dc" alt="img_1_i" width="600"/></td>
     <td><img src="https://github.com/user-attachments/assets/de68d7f0-e24e-480b-9c4c-5d3c4e200367" alt="img_1_g" width="600"/></td>
+    <td><img src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866" width="600"/></td>
   </tr>
 </table>
 
