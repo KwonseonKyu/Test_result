@@ -1,15 +1,15 @@
 # 250403 - Compare previous(0321) and current(0326) model output
 
-## Results
+## Quantitative evaluation
 
-| Dataset  | Version-0321 |           | Version-0326 |           |
-|:--------:|:----------:|:---------:|:-------:|:---------:|
-|          | PSNR       | SSIM      | PSNR    | SSIM      |
-|  Custom testset  |  27.23     |  0.853    | 26.63   |  0.836    |
+| Dataset               | Version-0321 |            | Version-0326 |            |
+|:---------------------:|:------------:|:----------:|:------------:|:----------:|
+|                       | PSNR         | SSIM       | PSNR         | SSIM       |
+|  Custom test dataset  |  20.88       |  0.9037    | 24.28        |  0.9242    |
 
 
 
-## Compare previous(0321) and current(0326) model output
+## Qualitative evaluation
 
 
 - **Image 1**
