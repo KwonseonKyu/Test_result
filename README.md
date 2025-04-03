@@ -23,11 +23,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_b" width="600"/><br/>
+      <img src="https://github.com/user-attachments/assets/d9046d14-f21c-4f6d-83fa-03bbeded6dd7" alt="img_1_b" width="1000"/><br/>
       <strong>Version-0321</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" alt="img_1_a" width="600"/><br/>
+      <img src="https://github.com/user-attachments/assets/c2a9da3d-133d-44a5-b414-9e28af85acd2" alt="img_1_a" width="1000"/><br/>
       <strong>Version-0326</strong>
     </td>
   </tr>
