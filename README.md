@@ -4,7 +4,7 @@
 ### Compare previous(0321) and current(0326) model output
 
 
-- Image 1
+- **Image 1**
 
 <div align="center">
   <strong>Ground Truth</strong>  
