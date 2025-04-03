@@ -167,23 +167,21 @@
   </tr>
 </table>
 
----
 
-## Qualitative evaluation
 
 ## Qualitative evaluation
 
 ### Example 1
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/950cc092-a728-4efb-824a-cda1b6ddef62" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/950cc092-a728-4efb-824a-cda1b6ddef62" width="700"/><br/>
   <strong>Input: original</strong>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f980d2c0-e9d5-4c52-98e6-1ade92473652" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/f980d2c0-e9d5-4c52-98e6-1ade92473652" width="700"/><br/>
   <strong>Output: enhanced</strong>
 </div>
 
@@ -192,14 +190,14 @@
 ### Example 2
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c4359cdb-a16f-4ee1-a0ac-50e295916763" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/c4359cdb-a16f-4ee1-a0ac-50e295916763" width="700"/><br/>
   <strong>Input: original</strong>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/257cae13-1da5-4dd1-8519-15f47b00dbf8" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/257cae13-1da5-4dd1-8519-15f47b00dbf8" width="700"/><br/>
   <strong>Output: enhanced</strong>
 </div>
 
@@ -208,14 +206,14 @@
 ### Example 3
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/727575d4-f0b8-4ef3-8d50-33fd21653efc" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/727575d4-f0b8-4ef3-8d50-33fd21653efc" width="700"/><br/>
   <strong>Input: original</strong>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8d3a1e3f-9800-4e0a-8866-5cd9f80566ed" width="1000"/><br/>
+  <img src="https://github.com/user-attachments/assets/8d3a1e3f-9800-4e0a-8866-5cd9f80566ed" width="700"/><br/>
   <strong>Output: enhanced</strong>
 </div>
 
