@@ -1,5 +1,14 @@
 ## 250320 - Color Enhancement model test example 
 
+
+
+https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d590328a-102b-11f0-9397-d93975fe8866
+
+
+
+
+
+
 ### Image1 
 
 - **Input & GT**  
@@ -120,55 +129,5 @@
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Before & After Image Comparison</title>
-  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 2rem;
-      background-color: #f8f9fa;
-      color: #333;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-    .container {
-      max-width: 900px;
-      margin: auto;
-    }
-    .juxtapose {
-      width: 100%;
-      height: 600px;
-    }
-    footer {
-      text-align: center;
-      margin-top: 3rem;
-      font-size: 0.9rem;
-      color: #888;
-    }
-  </style>
-</head>
-<body>
 
-  <div class="container">
-    <h1>Before & After Comparison</h1>
-
-    <div class="juxtapose" data-startingposition="50%">
-      <img src="before.jpg" data-label="Before" />
-      <img src="after.jpg" data-label="After" />
-    </div>
-
-    <footer>
-      Powered by <a href="https://juxtapose.knightlab.com/" target="_blank">Juxtapose.js</a>
-    </footer>
-  </div>
-
-  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
-</body>
-</html>
 
