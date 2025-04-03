@@ -45,7 +45,6 @@
   <img src="https://github.com/user-attachments/assets/38f1b0e3-84e5-42e3-b799-6db49c4d8310" alt="img_2_gt" width="500"/>
 </div>
 
-
 <br>
 
 <div align="center">
@@ -77,8 +76,6 @@
   <img src="https://github.com/user-attachments/assets/b605a1bd-cfa8-4f30-a309-ea8b001f3eec" alt="img_3_gt" width="500"/>
 </div>
 
-
-
 <br>
 
 <div align="center">
@@ -100,6 +97,36 @@
 
 ---
 
+- **Image 4**
+
+<div align="center">
+  <strong>Ground Truth</strong>  
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d7242af7-067e-471c-8b65-bddda6df2103" alt="img_4_gt" width="500"/>
+</div>
+
+<br>
+
+<div align="center">
+  <strong>Compare model outputs</strong>  
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fe42cd72-651a-40f1-acb3-288b52fb4b14" alt="img_4_b" width="600"/><br/>
+      <strong>Version-0321</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ef30a5cb-6fd0-411b-9dc9-d354f60ca30d" alt="img_4_a" width="600"/><br/>
+      <strong>Version-0326</strong>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 
