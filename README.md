@@ -115,14 +115,14 @@
 ### Example 1
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/950cc092-a728-4efb-824a-cda1b6ddef62" width="700"/><br/>
+  <img src="https://github.com/user-attachments/assets/950cc092-a728-4efb-824a-cda1b6ddef62" width="1200"/><br/>
   <strong>Input: original</strong>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f980d2c0-e9d5-4c52-98e6-1ade92473652" width="700"/><br/>
+  <img src="https://github.com/user-attachments/assets/f980d2c0-e9d5-4c52-98e6-1ade92473652" width="1200"/><br/>
   <strong>Output: enhanced</strong>
 </div>
 
